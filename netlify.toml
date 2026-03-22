@@ -1,0 +1,7 @@
+# Source - https://stackoverflow.com/a/72792133
+# Posted by Yusuf
+# Retrieved 2026-03-19, License - CC BY-SA 4.0
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

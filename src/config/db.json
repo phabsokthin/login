@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "title": "434bbb",
+      "price": 700,
+      "category": "600",
+      "image": "https://mansionz.in/cdn/shop/files/TUBORGSTRONGBEER.jpg?v=1715692447"
+    },
+    {
+      "id": "c330",
+      "title": "GMC",
+      "price": 4341111,
+      "category": "434333",
+      "image": "https://images.squarespace-cdn.com/content/v1/5b85c5e52487fd1f4b32f19f/1692198643511-EGNKTBG9XHIKBS0WM3F5/CraftmasterStainlessInc.-240606-Flavor-Qualities-Beer-Blogbanner1.jpg"
+    }
+  ]
+}
