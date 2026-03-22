@@ -50,6 +50,8 @@ export default function ProductForm({
     });
   };
 
+
+
   /**
    * Handle form submission
    */
@@ -93,7 +95,7 @@ export default function ProductForm({
           </div>
 
           <div>
-            <label className="block text-sm font-medium">Price</label>
+            <label className="block text-sm font-medium">Pric22222</label>
             <input
               type="number"
               name="price"
